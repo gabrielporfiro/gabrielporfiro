@@ -1,6 +1,6 @@
 # 👋  Hello World, I’m 👨🏻‍💻 @GabrielPorfiro.
 
-![Instagram Badge](https://img.shields.io/github/followers/gabrielporfiro?style=social&link=https://www.instagram.com/gabrielporfiro_/)
+![Github Followers](https://img.shields.io/github/followers/gabrielporfiro?style=social&label=Seguidores)
 
 **Front-end web development and Cybersecurity**
  - 📍 From Brazillian
