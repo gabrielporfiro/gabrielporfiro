@@ -2,7 +2,7 @@
 
 ![Github Followers](https://img.shields.io/github/followers/gabrielporfiro?style=social&label=Seguidores)
 
-**Front-end web development and Cybersecurity**
+**Fullstack and Cybersecurity**
 ## 🐘 Profile
  - 📍 From Brazillian
  - 🧙‍♂️ I'm 22 years old
