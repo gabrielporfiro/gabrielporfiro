@@ -3,8 +3,7 @@
 
 <center>
 
-> Whatever your hand can find to do, do it with all your heart.
- - Salomão
+> "Whatever your hand can find to do, do it with all your heart." - Salomão
 
 </center>
 
