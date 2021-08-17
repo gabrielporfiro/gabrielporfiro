@@ -3,7 +3,8 @@
 
 <center>
 
-> Tudo o que a sua mão encontrar para fazer, faça-o com todo o seu coração.
+> Whatever your hand can find to do, do it with all your heart.
+ - Salomão
 
 </center>
 
